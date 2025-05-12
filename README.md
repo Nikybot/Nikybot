@@ -11,13 +11,6 @@ Hi! I'm Niky, a final-year university student building personal robotics and ele
 
 [![Instagram](https://img.shields.io/badge/-Nikybot.exe-ff69b4?logo=instagram)](https://www.instagram.com/nikybot.exe/)
 
-<a href="https://www.instagram.com/nikybot.exe/">
-  <img src="https://img.shields.io/badge/-Nikybot.exe-ff69b4?logo=instagram" />
-</a>
-<br>
-<a href="https://www.instagram.com/nikybot.exe/">
-  <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="80"/>
-</a>
 
 
 ---
