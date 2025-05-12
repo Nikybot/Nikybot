@@ -28,8 +28,7 @@ Currently working on my **thesis for a degree in Civil Engineering with a focus 
 - **Languages I Speak**: English (B1), Spanish (native), German (A2)
 
 ## Contact
-- Email: [nico.melladov@gmail.com](mailto:nico.melladov@gmail.com)
-- Instagram: [@nikybot.exe](https://www.instagram.com/nikybot.exe)
+- ![Gmail](https://img.shields.io/badge/Gmail-nico.melladov@gmail.com-D14836?logo=gmail&logoColor=white)
 - ![Instagram](https://img.shields.io/badge/Instagram-@nikybot.exe-1DA1F2?logo=instagram&logoColor=white)
 
 ## Current Project Status
