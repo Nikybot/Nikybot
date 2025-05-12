@@ -9,7 +9,7 @@ Hi! I'm Niky, a final-year university student building personal robotics and ele
 
 ## Find me
 - GitHub: [github.com/Nikytech](https://github.com/Nikytech)
-- [![Instagram](https://img.shields.io/badge/Nikybot.exe-Instagram-ff69b4)](https://www.instagram.com/nikybot.exe/)
+[![Instagram](https://img.shields.io/badge/-Nikybot.exe-ff69b4?logo=instagram)](https://www.instagram.com/nikybot.exe/)
 
 
 ---
