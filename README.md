@@ -1,6 +1,6 @@
 # Hello =)
 
-Hi! I'm Niky, a final-year university student building personal robotics and electronics projects with passion, 3D printing, and a touch of Python.
+Hi! I'm Niky, a final-year university student building personal robotics and electronics projects with passion, 3D printing, and a little of Python.
 
 ## Projects
 - Kinetic-7 – A custom-built robotic arm for light electronics work and soldering tasks.
