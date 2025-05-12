@@ -27,8 +27,12 @@ Currently working on my **thesis for a degree in Civil Engineering with a focus 
   
 - **Components**: Arduino Mega2560, Arduino Nano, Raspberry Pi Zero 2 W, servos, stepper motors, DRV8825 drivers, relays, etc.
   
-- **Software**: ![Autodesk](https://img.shields.io/badge/Autodesk-3ds_Max-1D1D1B?logo=autodesk&logoColor=white), Tinkercad, Creality Slicer, Creality Print
-
+## Software**:
+- ![Autodesk](https://img.shields.io/badge/Autodesk-3ds_Max-1D1D1B?logo=autodesk&logoColor=white)
+- ![Tinkercad](https://img.shields.io/badge/Tinkercad-3D_Design-F59E42?logo=tinkercad&logoColor=white)
+- ![Creality Slicer](https://img.shields.io/badge/Creality_Slicer-4.8_Pro-F24E1E?logo=creality&logoColor=white)
+- ![Creality Print](https://img.shields.io/badge/Creality_Print-v1.4.0-009C9D?logo=creality&logoColor=white)
+- ![PSIM](https://img.shields.io/badge/PSIM-Software-00A4A4?logo=psim&logoColor=white)
   
 - **Libraries/Frameworks**: OpenCV, OpenGL
 - **Languages I speak**: English (B1), Spanish (native), German (A2)
@@ -42,4 +46,4 @@ All of my projects are in various stages of development. Some are almost finishe
 
 ---
 
-**Note**: I'm still learning, but I am very passionate about electronics and continuously working to improve my skills!
+**Note**: I'm still learning, but I am very passionate about electronics and continuously working to improve =)
