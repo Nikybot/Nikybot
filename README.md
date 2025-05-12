@@ -1,4 +1,4 @@
-# Hello =)
+# Hi, I am Niky =)
 
 Hi! I'm Niky, a final-year university student building personal robotics and electronics projects with passion, 3D printing, and a little of Python.
 
