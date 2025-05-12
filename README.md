@@ -8,7 +8,7 @@ Hi! I'm Niky, a final-year university student building personal robotics and ele
 - Optical Communication with Arduino – A DIY serial communication project using fiber optics, two Arduinos, and I2C displays.
 
 ## Find me
-- GitHub: [github.com/Nikytech](https://github.com/Nikytech)
+
 [![Instagram](https://img.shields.io/badge/-Nikybot.exe-ff69b4?logo=instagram)](https://www.instagram.com/nikybot.exe/)
 
 
