@@ -2,7 +2,7 @@
 
 From Chile, passionate electronics enthusiast with a strong focus on robotics and automation. i am still a beginner in the field, but I am constantly learning and exploring new technologies. Here are some of the projects I'm currently working on:
 
-## Projects
+## Personal projects:
 
 ### Kinetic-7
 A robotic arm designed for precision tasks. It's equipped with servos, motors, and a custom-built control system. This project is one of my most ambitious, and I’m learning a lot while building it
@@ -36,7 +36,7 @@ Currently working on my **thesis for a degree in Civil Engineering with a focus 
 - ![PSIM](https://img.shields.io/badge/PSIM-Software-00A4A4?logo=psim&logoColor=white)
   
 - **Libraries/Frameworks**: OpenCV, OpenGL
-- **Languages (reading)**: English (B1), Spanish (native), German (A2)
+- **Languages (reading)**: English (B1), Spanish (native), German (A1)
 
 ## Contact
 - ![Gmail](https://img.shields.io/badge/Gmail-nico.melladov@gmail.com-D14836?logo=gmail&logoColor=white)
