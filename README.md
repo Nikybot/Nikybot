@@ -7,7 +7,7 @@ I am from Chile, i like to learn about robotics and automation, constantly learn
 A robotic arm designed for precision tasks. It's equipped with servos, motors, and a custom-built control system. This project is one of my most ambitious, and I’m learning a lot while building it
 
 ### ByteForge 1000
-A cyberdeck built with a Raspberry Pi and various components. It’s a portable, customizable computing setup for personal and professional use, designed with a sleek and functional design.
+A cyberdeck built with a Raspberry Pi and various components. it’s a portable and customizable computing setup for personal and professional use, designed with a sleek and functional design.
 
 ### OptiLink v1.0
 A project focused on **fiber optic data transmission**. It uses an emitter and receiver to demonstrate how data can be transmitted via fiber optics.
