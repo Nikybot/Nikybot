@@ -3,7 +3,7 @@
 I am from Chile, i like to learn about robotics and automation, constantly learning new technologies, here are some of the projects that i am currently working on along with my academic thesis:
 ## Personal projects:
 
-### Kinetic-7 ![Kinetic-7](https://img.shields.io/badge/Kinetic--7-blue)
+### Kinetic-7 ![Kinetic-7](https://img.shields.io/badge/Kinetic--7-blue?style=for-the-badge)
 A robotic arm designed for precision tasks. It's equipped with servos, motors, and a custom-built control system. This project is one of my most ambitious, and I’m learning a lot while building it
 
 ### ByteForge 1000
