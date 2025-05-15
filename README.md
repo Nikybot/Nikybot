@@ -16,7 +16,7 @@ A project focused on **fiber optic data transmission**. It uses an emitter and r
 ### SolarMBOT X
 An upgraded version of the MBOT robot, with enhancements such as 3D-printed parts, solar panels, a front omnidirectional wheel, and various sensors for a more interactive and eco-friendly robotic experience.
 
-## Thesis Project (Engineering)
+## My Thesis Project (robotic and automation engineering)
 Currently working on my **thesis for a degree in Civil Engineering with a focus on automation**. My thesis project involves the design and development of an **intelligent, omnidirectional unmanned vehicle** for mining, using proximity sensors and other technologies to improve efficiency and safety.
 
 ## Technologies than i use
@@ -33,10 +33,9 @@ Currently working on my **thesis for a degree in Civil Engineering with a focus 
 - ![Tinkercad](https://img.shields.io/badge/Tinkercad-3D_Design-F59E42?logo=tinkercad&logoColor=white)
 - ![Creality Slicer](https://img.shields.io/badge/Creality_Slicer-4.8_Pro-F24E1E?logo=creality&logoColor=white)
 - ![Creality Print](https://img.shields.io/badge/Creality_Print-v1.4.0-009C9D?logo=creality&logoColor=white)
-- ![PSIM](https://img.shields.io/badge/PSIM-Software-00A4A4?logo=psim&logoColor=white)
-  
+- ![PSIM](https://img.shields.io/badge/PSIM-Software-00A4A4?logo=psim&logoColor=white) 
 - **Libraries/Frameworks**: OpenCV, OpenGL
-- **Languages (reading)**: English (B1), Spanish (native), German (A1)
+
 
 ## Contact
 - ![Gmail](https://img.shields.io/badge/Gmail-nico.melladov@gmail.com-D14836?logo=gmail&logoColor=white)
