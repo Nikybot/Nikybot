@@ -1,7 +1,6 @@
 # Hi!, i am Niky n.n
 
-From Chile, passionate electronics enthusiast with a strong focus on robotics and automation. i am still a beginner in the field, but I am constantly learning and exploring new technologies. Here are some of the projects I'm currently working on:
-
+I am from Chile, i like to learn about robotics and automation, constantly learning new technologies, here are some of the projects that i am currently working on along with my academic thesis:
 ## Personal projects:
 
 ### Kinetic-7
@@ -13,7 +12,7 @@ A cyberdeck built with a Raspberry Pi and various components. It’s a portable,
 ### OptiLink v1.0
 A project focused on **fiber optic data transmission**. It uses an emitter and receiver to demonstrate how data can be transmitted via fiber optics.
 
-### SolarMBOT X
+### SolarMBOT-X
 An upgraded version of the MBOT robot, with enhancements such as 3D-printed parts, solar panels, a front omnidirectional wheel, and various sensors for a more interactive and eco-friendly robotic experience.
 
 ## My Thesis Project (robotic and automation engineering)
@@ -26,7 +25,7 @@ Currently working on my **thesis for a degree in Civil Engineering with a focus 
 - ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white)
   
 ## Components and devices that i work: 
-- Arduino Mega2560, Arduino Nano, Raspberry Pi Zero 2 W, servos, stepper motors, DRV8825 drivers, relays, etc.
+- Arduino Mega2560, Arduino UNO, Raspberry Pi Zero 2 W, servos, stepper motors, DRV8825 drivers, relays, etc.
   
 ## Software**:
 - ![Autodesk](https://img.shields.io/badge/Autodesk-3ds_Max-1D1D1B?logo=autodesk&logoColor=white)
@@ -45,4 +44,4 @@ All of my projects are in various stages of development. Some are almost finishe
 
 ---
 
-**Note**: I'm still learning, but I am very passionate about electronics and continuously working to improve =)
+**Note**: I'm still learning, but i am very passionate about electronics and continuously working to improve =)
