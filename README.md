@@ -25,7 +25,8 @@ Currently working on my **thesis for a degree in Civil Engineering with a focus 
 - ![C++](https://img.shields.io/badge/C%2B%2B-11-00599C?logo=c%2B%2B&logoColor=white)
 - ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white)
   
-- **Components**: Arduino Mega2560, Arduino Nano, Raspberry Pi Zero 2 W, servos, stepper motors, DRV8825 drivers, relays, etc.
+## Components and devices that i work: 
+- Arduino Mega2560, Arduino Nano, Raspberry Pi Zero 2 W, servos, stepper motors, DRV8825 drivers, relays, etc.
   
 ## Software**:
 - ![Autodesk](https://img.shields.io/badge/Autodesk-3ds_Max-1D1D1B?logo=autodesk&logoColor=white)
