@@ -1,7 +1,7 @@
 # Hi!, i am Niky n.n
 
 I am from Chile, i like to learn about robotics and automation, constantly learning new technologies, here are some of the projects that i am currently working on along with my academic thesis:
-## Personal projects:
+## My personal projects:
 
 ### ![Kinetic-7](https://img.shields.io/badge/Kinetic--7-blue?style=for-the-badge)
 A robotic arm designed for precision tasks. It's equipped with servos, motors, and a custom-built control system. This project is one of my most ambitious, and I’m learning a lot while building it
@@ -27,7 +27,7 @@ Currently working on my **thesis for a degree in Civil Engineering with a focus 
 ## Components and devices that i work: 
 - Arduino Mega2560, Arduino UNO, Raspberry Pi Zero 2 W, servos, stepper motors, DRV8825 drivers, relays, etc.
   
-## Software**:
+## **Software**:
 - ![Autodesk](https://img.shields.io/badge/Autodesk-3ds_Max-1D1D1B?logo=autodesk&logoColor=white)
 - ![Tinkercad](https://img.shields.io/badge/Tinkercad-3D_Design-F59E42?logo=tinkercad&logoColor=white)
 - ![Creality Slicer](https://img.shields.io/badge/Creality_Slicer-4.8_Pro-F24E1E?logo=creality&logoColor=white)
