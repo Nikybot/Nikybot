@@ -15,7 +15,7 @@ A project focused on **fiber optic data transmission**. It uses an emitter and r
 ### SolarMBOT-X
 An upgraded version of the MBOT robot, with enhancements such as 3D-printed parts, solar panels, a front omnidirectional wheel, and various sensors for a more interactive and eco-friendly robotic experience.
 
-## My Thesis Project (robotic and automation engineering)
+## My academic thesis Project (robotic and automation engineering)
 Currently working on my **thesis for a degree in Civil Engineering with a focus on automation**. My thesis project involves the design and development of an **intelligent, omnidirectional unmanned vehicle** for mining, using proximity sensors and other technologies to improve efficiency and safety.
 
 ## Technologies than i use
@@ -42,6 +42,4 @@ Currently working on my **thesis for a degree in Civil Engineering with a focus 
 ## Current Project Status
 All of my projects are in various stages of development. Some are almost finished, while others are still under construction and experimentation.
 
----
-
-**Note**: I'm still learning, but i am very passionate about electronics and continuously working to improve =)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
