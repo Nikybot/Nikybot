@@ -34,7 +34,6 @@ Currently working on my **thesis for a degree in Civil Engineering with a focus 
 - ![Creality Slicer](https://img.shields.io/badge/Creality_Slicer-4.8_Pro-F24E1E?logo=creality&logoColor=white)
 - ![Creality Print](https://img.shields.io/badge/Creality_Print-v1.4.0-009C9D?logo=creality&logoColor=white)
 - ![PSIM](https://img.shields.io/badge/PSIM-Software-00A4A4?logo=psim&logoColor=white) 
-- **Libraries/Frameworks**: OpenCV, OpenGL
 
 
 ## Contact
