@@ -18,7 +18,7 @@ An upgraded version of the MBOT robot, with enhancements such as 3D-printed part
 ### ![My academic thesis Project (robotic and automation engineering)](https://img.shields.io/badge/My%20academic%20thesis%20Project%20(robotic%20and%20automation%20engineering)-red?style=for-the-badge)
 Currently working on my **thesis for a degree in Civil Engineering with a focus on automation**. My thesis project involves the design and development of an **intelligent, omnidirectional unmanned vehicle** for mining, using proximity sensors and other technologies to improve efficiency and safety.
 
-## Technologies than i use
+## Technologies than i use:
 
 - **Languages**:
 - ![C++](https://img.shields.io/badge/C%2B%2B-11-00599C?logo=c%2B%2B&logoColor=white)
